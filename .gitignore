@@ -1,0 +1,6 @@
+bin
+.clang_complete*
+LICENSE*
+todo.txt*
+kdevtut
+*.swp
