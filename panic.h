@@ -2,4 +2,4 @@
 
 void panic();
 
-#endif PANIC_H
+#endif
