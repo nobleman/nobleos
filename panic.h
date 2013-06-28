@@ -1,5 +1,5 @@
 #ifdef PANIC_H
 
-void panic();
+void panic(void);
 
 #endif
